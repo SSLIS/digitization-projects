@@ -9,7 +9,7 @@
 
 ### [dchmje](https://github.com/dchmje/)
 - **title:** Grekernas och Romarnes Mytologi
-- **website:** [Ghttps://dchmje.github.io/digitizationproject/](https://dchmje.github.io/digitizationproject/)
+- **website:** [https://dchmje.github.io/digitizationproject/](https://dchmje.github.io/digitizationproject/)
 - **GitHub:** [https://github.com/dchmje/digitizationproject](https://github.com/dchmje/digitizationproject)
 
 ### [hannam228](https://github.com/HanaM288/)
@@ -32,9 +32,7 @@
 - **website:** [https://martinavivijansson.github.io/Surbrunn/index.html](https://martinavivijansson.github.io/Surbrunn/index.html)
 - **GitHub:** [https://github.com/MartinaViviJansson/Surbrunn](https://github.com/MartinaViviJansson/Surbrunn)
 
-
 ### [vasilikikok](https://github.com/VasilikiKok)
 - **title:** Αγαπητή Πόπη
 - **website:** [https://vasilikikok.github.io/Epistoles/index.html](https://vasilikikok.github.io/Epistoles/index.html)
 - **GitHub:** [https://github.com/VasilikiKok/Epistoles](https://github.com/VasilikiKok/Epistoles)
-
